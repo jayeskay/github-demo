@@ -1,2 +1,2 @@
-# gitub-demo
+# github-demo
 A simple demo repo.
